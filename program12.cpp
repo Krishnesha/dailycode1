@@ -21,7 +21,7 @@ cout << "Result2=" <<result2
 << endl;
 
 // calling with float parameters
-result3= add<float>(6.777, 88.9);
+result3 = add<float>(6.777, 88.9);
 cout << "Result3=" <<result3
 << endl;
 
