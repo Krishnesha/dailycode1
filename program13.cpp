@@ -5,7 +5,6 @@ class Number
 {
 private:
 T num;
-
 public:
 Number(T n) : num(n)
 {
